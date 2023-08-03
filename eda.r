@@ -1,3 +1,4 @@
+#EDA on Weather Data
 forecast=read.csv("FinalForecastData.csv")
 #removing redundancy
 forecast=forecast[-c(5,9,13,15,19,21,23,25,26,28,27,29,31,33)]
